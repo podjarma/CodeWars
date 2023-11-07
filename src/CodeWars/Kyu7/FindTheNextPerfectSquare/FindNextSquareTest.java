@@ -1,4 +1,4 @@
-package CodeWars.FindTheNextPerfectSquare;
+package CodeWars.Kyu7.FindTheNextPerfectSquare;
 
 /*
 You might know some pretty large perfect squares. But what about the NEXT one?

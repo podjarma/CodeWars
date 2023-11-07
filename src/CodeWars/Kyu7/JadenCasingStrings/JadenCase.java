@@ -1,9 +1,8 @@
-package CodeWars.JadenCasingStrings;
+package CodeWars.Kyu7.JadenCasingStrings;
 
 public class JadenCase {
 
     public static String toJadenCase(String phrase) {
-        // TODO put your code below this comment
         if(phrase != null){
             if(!phrase.isEmpty()) {
                 char[] chars = phrase.toCharArray();

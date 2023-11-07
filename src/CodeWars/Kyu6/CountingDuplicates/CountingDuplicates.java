@@ -1,4 +1,4 @@
-package CodeWars.CountingDuplicates;
+package CodeWars.Kyu6.CountingDuplicates;
 /*
 Count the number of Duplicates
 Write a function that will return the count of distinct case-

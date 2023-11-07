@@ -1,4 +1,4 @@
-package CodeWars.YouAreSquare;
+package CodeWars.Kyu7.YouAreSquare;
 
 public class Square {
     public static boolean isSquare(int n) {

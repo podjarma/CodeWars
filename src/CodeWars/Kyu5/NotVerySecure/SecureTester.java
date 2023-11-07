@@ -1,8 +1,8 @@
-package CodeWars.NotVerySecure;
+package CodeWars.Kyu5.NotVerySecure;
 
 public class SecureTester {
     public static boolean alphanumeric(String s){
-        return s.matches("^[A-Za-z0-9]");
+        return s.matches("^[A-Za-z0-9]+$");
         
     }
 

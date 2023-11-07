@@ -1,4 +1,4 @@
-package CodeWars.FakeBinary;
+package CodeWars.Kyu8.FakeBinary;
 
 public class FakeBinary {
     public static String fakeBin(String numberString) {

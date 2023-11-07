@@ -1,7 +1,4 @@
-package CodeWars.DetectPangram;
-
-import java.util.ArrayList;
-import java.util.Locale;
+package CodeWars.Kyu6.DetectPangram;
 
 public class PangramChecker {
     public boolean check(String sentence){
